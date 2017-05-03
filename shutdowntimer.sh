@@ -4,3 +4,5 @@ sudo shutdown $time
 
 echo "The PC will shut down in $time minute/s."
 
+echo "Thank you for using this program! :)"
+
