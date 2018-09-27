@@ -4,7 +4,7 @@ sudo shutdown $time
 
 echo "The system will shut down in $time minute/s."
 
-echo "Thank you for using this program! :)"
+echo "Thank you for using this program! by L4ma"
 
 
 #Copyright by L4ma
